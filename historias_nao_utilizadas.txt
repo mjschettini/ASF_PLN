@@ -1,0 +1,143 @@
+I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.
+I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
+I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset.
+I want to see sensible and predictable URLs, so that the application feels logical and transparent.
+I want to know when only part of a folder has been digitized, so that I know if I am seeing everything or only a portion.
+I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+I want to upload a data file and put a CC-By or CC0 license on it, so that my licensing desires are clearly stated.
+I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites.
+I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
+I want to preserve both the content and the metadata within the repository in a robust manner, so that I can provide stable, long-term access to this material.
+I want to see the sections on costing by other researchers in my department, so that I can see if we could share data manager posts.
+I want to see a list of all the summits, so that I can determine which summit I might be interested and able to attend.
+I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
+I want to know as soon as I visit what on earth Scrum is and why it needs an alliance, so that I don't bounce immediately oﬀ the page.
+I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers.
+I want to have files adequately described, so that I can successfully render them in my contemporary operating environment.
+I want the language on FABS pages to be appropriate for me, so that I am not confused.
+I want to update any course or event, so that I can fix things the original author hasn't.
+I want to find out where the coding lounge is and what time it is open, so that I can code with my friends.
+I want to Be offered several choices of idividual sponsorship on the second page of registration, so that I can be awesome and financially support the camp.
+I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
+I want to delete a game, so that stories and estimates for this game are no longer stored.
+I want to have some flexibility as to where things appear, so that I can accommodate different types of content.
+I want to be shown all estimates at the same time after all estimators have given their estimate, so that I can be sure estimates are independent and not influenced by other estimates given in the same draw.
+I want to export descriptive data in a common format, so that I can use text mining tools on it.
+I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+I want to receive a reminder and a link, so that I can renew my membership.
+I want to quickly correct errors in uploaded metadata, and even uploaded documents, while leaving a record of my revisions (and possibly the reasons behind them), so that I can present correct versions of content and to locate points of error.
+I want to be added to a training waitlist, so that so they can be considered for a class.
+I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
+I want to be able to see a schedule of the activities my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
+I want to be able to message my child's counselors, so that I can voice my concerns or check on my child's progress.
+I want to move a collection, so that I can fulfill the collection owner's request.
+I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly.
+I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.
+I want to access digitized archival materials without mediation, so that I can decide what, I want to look at.
+I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
+I want to store camper's immediate parent/guardian's information, so that I can easily call to notify them in case a grossly unacceptable behavior.
+I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
+I want to upload large batches of items simultaneously, including descriptive metadata, so that I can offer service to authors efficiently.
+I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
+I want to view venue details, so that I can get a sense of the location and see the events happening there.
+I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
+I want to receive a notification when I submit a session, so that know that my session went through ok.
+I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+I want to know about costs, so that I can plan my research.
+I want to receive regular summary reports of research data, so that I understand trends in data use among staff and postgraduate students.
+I want to use content and metadata from the repository in other systems and/or web pages easily, so that I can deliver such content in the manner best fit to the audience or occasion.
+I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
+I want to pay an annual fee, so that my CST status is active.
+I want to update one of my existing courses or events, so that it reflects accurate information.
+I want to get a Data Package into LibreOffice/OpenOffice in seconds, so that I can start using the data for doing analysis and visualizations.
+I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
+I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
+I want to view thumbnails of photos, so that I can make a selection of which one I want to license.
+I want to recruit for the last round of user research, so that we can summarize our findings and synthesize results.
+I want to know how long it will take to archive, so that I can plan further steps.
+I want to have full access to all articles, so that there is a benefit to being a member.
+I want to know the time plan for collecting data, so that I can plan the data management.
+I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.
+I want to Capture a Hearing Decision, so that I can enforce the system.
+I want to be able to see each estimator's prior estimates for the story being estimated, so that I can see how his or her opinion has changed so I can ask questions.
+I want to see the sections on roles, so that I can ensure sufficient expertise on data management to support the project.
+I want to be able to preview the views of the current data package using cli prior to publishing, so that that I can refine the json declarations of datapackage view section to achieve a great looking result.
+I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
+I want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data, so that that if my data is lost or gets broken I still have a copy people can use.
+I want to be able to extract the data sets that are submitted to external repositories, so that I can add them to an institutional data catalogue.
+I want to know who is responsible for the DMP, so that I can ask them about further details.
+I want to get a sense of the age of the datapackage that I have downloaded before, so that that I can decide if I should update or not.
+I want to delete an item from the list of items to be estimated, so that we can remove it and not estimate it.
+I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
+I want to create a new course or event, so that site visitors can see it.
+I want to plan the anonymization of data, so that we protect the privacy of the people participating in the research as good as possible and still ensure reusability of data.
+I want to refund sponsorship money that was processed via stripe, so that people get their monies back.
+I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not lost if they close down.
+I want to be able to create a registration form for both staff and kids, so that I can keep organized.
+I want to export a transcript of a game as a CSV file, so that I can further process the stories and estimates.
+I want to have an updated acquisitions roadmap, so that I can plan accordingly.
+I want to search the repository and browse through its contents on my phone, so that I can check things on the go.
+I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.
+I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
+I want to understand what the MVP should look like, so that I can begin understanding workflow needs as they pertain to any CMS decision.
+I want to record information about my DMP, so that an Ethics Committee can review this for compliance with ethical standards.
+I want to clarify the necessary rights for re-using the data, so that it is legal to reuse the data.
+I want to get a Data Package into SPSS in seconds, so that I can start using the data for doing analysis and visualizations.
+I want to see correct status labels on the Submission Dashboard, so that I can quickly see my submission history.
+I want to turn a course into an event or an event into a course, so that I can correctly classify anything that was entered incorrectly.
+I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.
+I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion.
+I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
+I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience.
+I want to have an admin view where all trainee information is shown and can be filtered to show a single training session, so that I can see WTF is happening.
+I want to know what the content of the data is, so that I can decide to which collection or repository the data fits.
+I want to see a list of all the summits that include when they are, so that I can determine which summit I want to attend.
+I want to see a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable.
+I want to be notified about the results of surveys about my classes, so that I can read them.
+I want to must accept the cancellation terms with a checkbox, so that they can be accountable..
+I want to use a command line tool that allows met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow.
+I want to undelete the deleted data packages, so that that the deleted data packages is now visible again.
+I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
+I want to subscribe to an RSS feed of jobs available, so that I can read them without visiting the site.
+I want to get a Data Package into Python in seconds, so that I can start using the data for doing analysis and visualizations.
+I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments.
+I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.
+I want to view a transcript of a game, so that I can see the stories and estimates.
+I want to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners, so that I don't need to involve a programmer on simple email edits.
+I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
+I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API.
+I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it.
+I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
+I want to encourage and promote the use of open standards for deposit, so that data is as reusable as possible.
+I want to know whether the DMP was approved, so that I can proceed with the required next steps.
+I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms.
+I want to subscribe to an RSS feed of upcoming courses and events, so that I am up to day without having to visit the site.
+I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
+I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered.
+I want to have a very clear map where the buildings and rooms are, so that I can make it to class on time.
+I want to publish a dataset, so that I can view just the dataset with a few people.
+I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+I want to contact the administrators, so that I can give feedback or ask for help.
+I want to derive FundingAgencyCode, so that the data quality and completeness improves.
+I want to ensure all data are quoted correctly with our affiliation, so that they are counted towards our citation counts.
+I want to read FAQs, so that I can get quick answers.
+I want to search by keyword, so that I can learn what already exists digitally and avoid placing additional duplication requests.
+I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
+I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
+I want to import metadata that I captured with a metadata tool, so that I do not have to capture it again in a DMP.
+I want to fill out a user registration form, so that I can register for the camp and get an account on the website.
+I want to write an article for the site with a small graphic shown with the article showing my CSP or CST status, so that others know my certifications when reading.
+I want to edit and delete help wanted ads, so that I can correct small problems or make sure each ad complies with site guidelines.
+I want to access a collection within the repository, so that I can obtain research materials.
+I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+I want to look at images that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
+I want to reply to user questions, so that I can answer any questions about my recycling center.
+I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.
+I want to test the user research plan, so that I make sure the in-person interviews are effective and capturing the right information.
+I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.
+I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
